@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "intSDM"]
-	path = intSDM
-	url = https://github.com/philipmostert/intsdm
 [submodule "PointedSDMs"]
 	path = PointedSDMs
 	url = https://github.com/philipmostert/pointedsdms
+[submodule "intSDM"]
+	path = intSDM
+	url = https://github.com/philipmostert/intsdm
