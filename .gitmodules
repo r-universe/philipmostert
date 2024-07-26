@@ -5,6 +5,3 @@
 [submodule "PointedSDMs"]
 	path = PointedSDMs
 	url = https://github.com/philipmostert/pointedsdms
-[submodule "intSDM"]
-	path = intSDM
-	url = https://github.com/philipmostert/intsdm
